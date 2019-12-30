@@ -1,0 +1,2 @@
+g++ config.cpp tinyxml.cpp tinystr.cpp tinyxmlerror.cpp tinyxmlparser.cpp main2.cpp -o config -lglut -lGLU -lGL
+
